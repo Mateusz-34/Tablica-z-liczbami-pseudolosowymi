@@ -12,7 +12,7 @@ int main() {
     int mojaTablica[rozmiarTablicy];
 
     for (int i = 0; i < rozmiarTablicy; ++i) {
-        mojaTablica[i] = rand() % 100;  
+        mojaTablica[i] = rand() % 25;  
     }
 
 
